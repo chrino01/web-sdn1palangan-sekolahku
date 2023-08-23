@@ -1,0 +1,11 @@
+/*
+* Warna di bawah ini adalah warna default dari tema barka
+* Silakan ubah nilainya jika menginginkan warna lain
+* Kode warna dapat diperoleh melalui situs color picker / color palette
+*/
+:root {
+  --primary-color: #c84444;
+  --secondary-color: #080808;
+  --accent-color: #ffee00;
+  --loader-color:#20639B;
+}
